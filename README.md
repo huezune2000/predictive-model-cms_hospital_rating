@@ -9,4 +9,4 @@ Hospitals - better resource-allocation strategy
 Insurance - improve overall policies/practices and network coverage strategy
 Patients - better understanding of their healthcare facilities and makes informed decision
 The objective of this project is to predict the hospital's rating, thus, the target variable or the y-variable is "Hospital overall rating".
-The project included comprehensive exploratory data analysis, data cleansing, and data visualization. Multiclass predictive models using machine learning from sci-kit learn librar
+The project included comprehensive exploratory data analysis, data cleansing, and data visualization. Multiclass predictive models using machine learning from sci-kit learn libraries included K-nearest neighbors, Support Vector Machines, and Random Forest. The end result included the comparison of the models' performance. 
