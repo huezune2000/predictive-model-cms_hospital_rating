@@ -2,6 +2,7 @@
 
 
 	Fun fact: The probability of picking a 5-star rating hospital in the USA that is from Texas is 0.35%.
+	
 	Fun fact: The probability of picking a 1-star rating hospital in the USA that is from New York is 1.1%.
 -----------------------------------------------------------------------------------------------------------------   
 
