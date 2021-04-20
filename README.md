@@ -18,3 +18,16 @@ It is every hospital's dream to have a 5-star rating as it signifies the level o
 
 ### Machine Learning: K-nearest neighbors, Support Vector Machines, and Random Forest as Predictive Models 
 The objective of this project is to predict the hospital's rating, thus, the target variable or the y-variable is "Hospital overall rating". The project included comprehensive exploratory data analysis, data cleansing, and data visualization. Multiclass predictive models using machine learning from sci-kit learn libraries included K-nearest neighbor, Support Vector Machines, and Random Forest. The end result included the comparison of these models' performance.
+
+
+# Python Libraries
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Sci-kit Learn
+* KNearest neighbors Classifier
+* Support Vector Machines Classifier
+* Random Forest Classifier
+* sklearn.metrics classification report
+* sklearn.metrics confusion matrix
